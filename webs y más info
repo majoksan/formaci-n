@@ -1,5 +1,7 @@
 https://aprendeconalf.es/
 
+https://aprendeconalf.es/docencia/python/ejercicios/cadenas/
+
 ##############################################
 import math                 # Necesario usar el prefijo del módulo
 print(math.sin(math.pi/2))  # antes del nombre de la entidad
